@@ -10,6 +10,6 @@ Used by Beere software:
 
 ## License
 
-Die Brummbeere source code is distributed under the GNU GENERAL PUBLIC LICENSE Version 2.
+Die Brummbeere source code is distributed under the GNU GENERAL PUBLIC LICENSE Version 3.
 
 Die Brummbeere documentation is Public Domain.
