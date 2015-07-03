@@ -4,6 +4,7 @@ import QtQuick.Window 2.2
 Window {
     property string title: "Beere Components"
     property bool menuActive: false
+    property alias currentPage: main.source
 
     id: root
     visible: true
@@ -14,7 +15,7 @@ Window {
         anchors.top: titlebar.bottom
         anchors.bottom: taskbar.top
         width: parent.width
-        source: "qrc:/RecorderPage.qml"
+        //source: "qrc:/StartPage.qml"
         visible: !menuActive
     }
 
